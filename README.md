@@ -150,12 +150,7 @@ paymentObject.open();
 
 ---
 
-## **Contact**
-If you have any questions, feel free to contact the developer.
 
-**Author**: Gangeswaran  
-**Email**: gangeswaran375@gmail.com  
-**GitHub**: https://github.com/gangeswaran
 
 ---
 
